@@ -1,0 +1,110 @@
+{
+    "proyectos": [
+        {
+            "id": "1",
+            "title": "New admission in October",
+            "description": "Light Blue - is a next generation admin template based on the latest Metro design. There are few reasons we want to tell you, why we have created it: We didn't like the darkness of most of admin templates, so we created this light one. We didn't like the high contrast of most of admin templates, so we created this unobtrusive one. We searched for a solution of how to make widgets look like real widgets, so we decided that deep background - is what makes widgets look real. ",
+            "date": "2015-01-07T15:10:13.022Z",
+            "desdeUf": "2500",
+            "inmobiliaria": "Inmobilia",
+            "direccion": "Calle 1",
+            "comuna": "Ñuñoa",
+            "region": "Región Metropolitana",
+            "pais": "Chile",
+            "entrega": "1º Semestre 2019",
+            "pie": "15%",
+            "cuotasPie": "36",
+            "valorReserva": "10UF",
+            "totalDepartamentos": "230",
+            "totalEstacionamientos": "120",
+            "totalBodegas": "80",
+            "estacionamientos": {
+                "estacionamiento": {
+                    "numero": "01",
+                    "piso": "1",
+                    "referencia": "202",
+                    "valorUF": "70" 
+                }
+            },
+            "bodegas": {
+                "bodega": {
+                    "numero": "101",
+                    "piso": "-3",
+                    "referencia": "202",
+                    "valorUF": "70" 
+                }
+            },
+            "departamentos": {
+                "departamento": {
+                    "numero": "202",
+                    "etapa": "Primera",
+                    "modelo": "Modelo G",
+                    "tipologia": "3D + 1B",
+                    "piso": "2",
+                    "orientacion": "Norte",
+                    "superficieUtil": "42,42",
+                    "superficieTerraza": "3,04",
+                    "superficieTotal": "45,25",
+                    "precioListaUF": "2814",
+                    "descuentoTotal": "12%",
+                    "precioVentaUF": "2477",
+                    "bono": "No",
+                    "descuentoVolumen": "No"
+                }
+            }
+        },
+        {
+            "id": "2",
+            "title": "New admission in October",
+            "description": "Light Blue - is a next generation admin template based on the latest Metro design. There are few reasons we want to tell you, why we have created it: We didn't like the darkness of most of admin templates, so we created this light one. We didn't like the high contrast of most of admin templates, so we created this unobtrusive one. We searched for a solution of how to make widgets look like real widgets, so we decided that deep background - is what makes widgets look real. ",
+            "date": "2015-01-07T15:10:13.022Z",
+            "desdeUf": "2500",
+            "inmobiliaria": "Inmobilia",
+            "direccion": "Calle 1",
+            "comuna": "Ñuñoa",
+            "region": "Región Metropolitana",
+            "pais": "Chile",
+            "entrega": "1º Semestre 2019",
+            "pie": "15%",
+            "cuotasPie": "36",
+            "valorReserva": "10UF",
+            "totalDepartamentos": "230",
+            "totalEstacionamientos": "120",
+            "totalBodegas": "80",
+            "estacionamientos": {
+                "estacionamiento": {
+                    "numero": "01",
+                    "piso": "1",
+                    "referencia": "202",
+                    "valorUF": "70" 
+                }
+            },
+            "bodegas": {
+                "bodega": {
+                    "numero": "101",
+                    "piso": "-3",
+                    "referencia": "202",
+                    "valorUF": "70" 
+                }
+            },
+            "departamentos": {
+                "departamento": {
+                    "numero": "202",
+                    "etapa": "Primera",
+                    "modelo": "Modelo G",
+                    "tipologia": "3D + 1B",
+                    "piso": "2",
+                    "orientacion": "Norte",
+                    "superficieUtil": "42,42",
+                    "superficieTerraza": "3,04",
+                    "superficieTotal": "45,25",
+                    "precioListaUF": "2814",
+                    "descuentoTotal": "12%",
+                    "precioVentaUF": "2477",
+                    "bono": "No",
+                    "descuentoVolumen": "No"
+                }
+            }
+        }        
+    ]
+}
